@@ -1,5 +1,4 @@
 # CS412_PROJECT
-CS412 Term Project
 The project is a basic note prediction algorithm, which has tried multiple classification and regression methods in order to achieve a higher accuracy prediction.
 The end result is a python notebook, which has comments and markdowns to better explain which functions and which code block is used for what purpose.
 The steps that can be found within the notebook are as follows:
